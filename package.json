@@ -4,7 +4,7 @@
   "description": "Práctica de POO y Unit Test de la semana 3 de Launch X",
   "main": "index.js",
   "scripts": {
-    "test": "node ./node_modules/.bin.jest"
+    "test": "node ./node_modules/.bin/jest"
   },
   "author": "luisma0330",
   "license": "ISC",
