@@ -19,4 +19,5 @@ describe('Unit test for User class', () => {
         expect(user.getDateCreated()).not.toBeUndefined()
         expect(user.getLastUpdated()).not.toBeUndefined()
     })
+    
 })
